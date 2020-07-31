@@ -1,0 +1,14 @@
+{
+  "name": "gaj-project",
+  "version": "1.0.0",
+  "description": "Garrett, Aaron, and Jon find the beaver",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "author": "Glizzy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}

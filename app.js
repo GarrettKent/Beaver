@@ -2,5 +2,5 @@ const button = document.getElementById("submit");
 
 button.addEventListener('click', (event) => {
     event.preventDefault();
-    console.log("Nothing Happened")
+    console.log(2+3)
   });
